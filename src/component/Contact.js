@@ -17,26 +17,26 @@ export default function Contact(){
                     <Row>
                         <Col lg={4}>
                         <div className="contact-content-part" data-aos="fade-up" data-aos-delay="200">
-                            <div className="single-contact"data-aos="fade-up" data-aos-delay="200">
+                            {/* <div className="single-contact"data-aos="fade-up" data-aos-delay="200">
                                 <div className="contact-icon">
                                     <RiMapPinLine/>
                                 </div>
                                 <h2>our office:</h2>
                                 <p>Tiger Khan, Bangladesh</p>
-                            </div>
+                            </div> */}
                             <div className="single-contact" data-aos="fade-up" data-aos-delay="400">
                                 <div className="contact-icon">
                                     <RiPhoneLine/>
                                 </div>
                                 <h2>contact number:</h2>
-                                <p>+1234321321</p>
+                                <p><a href="tel: +91-8417892447">+91-8417892447</a></p>
                             </div>
                             <div className="single-contact" data-aos="fade-up" data-aos-delay="600">
                                 <div className="contact-icon">
                                     <RiMailLine/>
                                 </div>
                                 <h2>Email us:</h2>
-                                <p>websitename@mail.com</p>
+                                <p><a href="mailto: rcbr786@gmail.com">rcbr786@mail.com</a></p>
                             </div>
                         </div>
                         </Col>
