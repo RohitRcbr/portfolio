@@ -1,5 +1,5 @@
 import 'swiper/css';
-import Header from './component/Header';
+// import Header from './component/Header';
 import About from './component/About';
 import Resume from './component/Resume';
 import Skills from './component/Skills';
