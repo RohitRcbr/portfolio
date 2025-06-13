@@ -87,15 +87,14 @@ export default function About(){
                     </div>
                     <div className="about-content-part-bottom" data-aos="fade-up" data-aos-delay="200">
 						<div className="company-list">
-                            <div className="scroller" data-direction="left" data-speed="slow">
-                                <div className="scroller__inner">
-                                    <h4>Bank lotpat kora amr main kaj.</h4>
-                                    <h4>Manusher taka ami mere khai</h4>
-                                    <h4>Ami khuni hasinar lok</h4>
-                                    <h4>Ami desh chere palaite chaichilam</h4>
-                                    <h4>Kinto pari nai</h4>
-                                </div>
-                            </div>
+                           <p>
+                           Experienced frontend developer with 5 years of expertise in crafting intuitive user interfaces
+and engaging digital experiences. Proficient in HTML5, CSS3, JavaScript, and modern
+frameworks like Bootstrap and React. Passionate about
+staying updated with the latest technologies and committed to optimizing performance
+while ensuring pixel-perfect designs. Ready to contribute to innovative projects and drive
+digital innovation.
+                           </p>
                         </div>                       
                     </div>
                 </Col>
