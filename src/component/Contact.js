@@ -1,4 +1,4 @@
-import { RiMailLine, RiMapPinLine, RiPhoneLine } from "@remixicon/react";
+import { RiMailLine, RiPhoneLine } from "@remixicon/react";
 import { Container, Row, Col } from "react-bootstrap";
 
 export default function Contact(){
