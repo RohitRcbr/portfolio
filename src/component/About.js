@@ -87,7 +87,7 @@ export default function About(){
                     </div>
                     <div className="about-content-part-bottom" data-aos="fade-up" data-aos-delay="200">
 						<div className="company-list">
-                           <p>
+                           <p className="mb-0">
                            Experienced frontend developer with 5 years of expertise in crafting intuitive user interfaces
 and engaging digital experiences. Proficient in HTML5, CSS3, JavaScript, and modern
 frameworks like Bootstrap and React. Passionate about
