@@ -2698,7 +2698,7 @@ padding: 40px 20px;
   -webkit-transform: scale(1.04);
   transform: scale(1.04);
   -webkit-filter: blur(1.5px);
-  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="1.5" /></filter></svg>#filter');
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="1.5" /></filter></svg>');
   filter: blur(1.5px)
 }
 
