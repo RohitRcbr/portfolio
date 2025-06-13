@@ -1,6 +1,6 @@
 import { Col, Container, Row, Modal, Button, Spinner } from "react-bootstrap";
 import { useState } from "react";
-import { RiFacebookCircleFill, RiTwitterXLine, RiLinkedinBoxFill, RiGithubFill, RiMailAddLine, RiDownloadLine } from "@remixicon/react";
+import { RiFacebookCircleFill, RiLinkedinBoxFill, RiGithubFill, RiMailAddLine, RiDownloadLine } from "@remixicon/react";
 export default function About(){
     const [isDownloading, setIsDownloading] = useState(false);
     const [showThankYou, setShowThankYou] = useState(false);
@@ -46,7 +46,7 @@ export default function About(){
                                 <li><a href="void:"><RiFacebookCircleFill /></a></li>
                                 <li><a href="mailto:rcbr786@gmail.com"><RiMailAddLine /></a></li>
                                 <li><a href="linkedin.com/in/rohit-chauhan-050276184"><RiLinkedinBoxFill /></a></li>
-                                <li><a href="https://github.com/RohitRcbr/" target="_blank"><RiGithubFill /></a></li>
+                                <li><a href="https://github.com/RohitRcbr/" target="_blank" rel="noreferrer"><RiGithubFill /></a></li>
                             </ul>
                         </div>
                     </div>
