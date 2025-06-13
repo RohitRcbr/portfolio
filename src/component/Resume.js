@@ -17,7 +17,7 @@ export default function Resume(){
                                     </div>
                                     <div className="content">
                                         <span className="years">2021 - Present</span>
-                                        <h4>Themeforest Market</h4>
+                                        <h4>Moral Group of Company</h4>
                                         <span className="company"> Web Designer </span>
                                     </div>
                                 </div>
