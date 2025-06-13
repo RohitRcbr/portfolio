@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import Header from './component/Header';
 import About from './component/About';

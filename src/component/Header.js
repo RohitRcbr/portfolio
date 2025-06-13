@@ -1,6 +1,6 @@
 import { RiShakeHandsLine } from "@remixicon/react";
 import Menu from "./Menu";
-import {Navbar, Button, Nav, Container } from 'react-bootstrap';
+import {Navbar, Button, Container } from 'react-bootstrap';
 export default function Header(){
     return (
            <header className="main-header">

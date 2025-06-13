@@ -43,7 +43,7 @@ export default function About(){
                         <p>I am a Web Designer, Frontend Developer based on Lucknow, UP.</p>
                         <div className="about-social text-center">
                             <ul>
-                                <li><a href="#"><RiFacebookCircleFill /></a></li>
+                                <li><a href="void:"><RiFacebookCircleFill /></a></li>
                                 <li><a href="mailto:rcbr786@gmail.com"><RiMailAddLine /></a></li>
                                 <li><a href="linkedin.com/in/rohit-chauhan-050276184"><RiLinkedinBoxFill /></a></li>
                                 <li><a href="https://github.com/RohitRcbr/" target="_blank"><RiGithubFill /></a></li>
