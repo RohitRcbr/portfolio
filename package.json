@@ -2,6 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rohitrcbr.github.io/portfolio/",
   "dependencies": {
     "@remixicon/react": "^4.6.0",
     "@testing-library/dom": "^10.4.0",
