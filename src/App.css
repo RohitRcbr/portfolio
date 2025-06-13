@@ -3173,9 +3173,6 @@ ul.blog_pagination li a:hover {
 .post-comments-area {
   padding-right: 60q;
 }
-
-.single-side-bar {}
-
 .single-side-bar {
   -webkit-transition: 0.5s;
   transition: 0.5s;
