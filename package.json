@@ -2,7 +2,6 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohitrcbr.github.io/portfolio/",
   "dependencies": {
     "@remixicon/react": "^4.6.0",
     "@testing-library/dom": "^10.4.0",
@@ -25,10 +24,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "clean": "rimraf node_modules gh-pages .cache"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
