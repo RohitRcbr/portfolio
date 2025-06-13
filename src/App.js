@@ -20,7 +20,7 @@ function App() {
     <>
     <div className='page'>
         <div className='page-content'>
-          <Header/>
+          {/* <Header/> */}
           <About/>
           <Resume/>
           <Skills/>
