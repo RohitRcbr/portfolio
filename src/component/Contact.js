@@ -1,6 +1,6 @@
 import { RiMailLine, RiPhoneLine } from "@remixicon/react";
 import { useRef, useState } from "react";
-import { Container, Row, Col, Modal, Spinner, Button, Form, InputGroup } from "react-bootstrap";
+import { Container, Row, Col, Modal, Spinner, Button, Form } from "react-bootstrap";
 import emailjs from "@emailjs/browser";
 export default function Contact() {
     const cusForm = useRef();
