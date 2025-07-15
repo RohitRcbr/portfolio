@@ -48,7 +48,7 @@
       "delay": 400
     },
     {
-      "name": ".NET Core",
+      "name": "ASP.NET Web Forms",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg",
       "percent": 75,
       "delay": 500
@@ -64,18 +64,6 @@
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
       "percent": 78,
       "delay": 200
-    },
-    {
-      "name": "Java",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
-      "percent": 70,
-      "delay": 300
-    },
-    {
-      "name": "C++",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
-      "percent": 65,
-      "delay": 400
     },
     {
       "name": "Visual Studio Code",
