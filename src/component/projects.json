@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Infiniti Connects",
+      "url": "https://infiniticonnects.com/",
+      "category": "development uiux",
+      "image": "infiniticonnect.png",
+      "stack": "HTML, CSS, JS, Bootstrap, PHP"
+    },
+    {
+      "title": "Moral Group",
+      "url": "https://moralgroup.org/",
+      "category": "branding development",
+      "image": "moralgroup.png",
+      "stack": "HTML, CSS, JS, Bootstrap, ASP.NET Web Forms"
+    },
+    {
+      "title": "Moral Winner",
+      "url": "https://moralwinner.com/",
+      "category": "branding design",
+      "image": "moralwinner.png",
+      "stack": "HTML, CSS, JS, Bootstrap, ASP.NET Web Forms"
+    },
+    {
+      "title": "Moral Industries",
+      "url": "https://moralindustries.com/",
+      "category": "branding development",
+      "image": "industry.png",
+      "stack": "HTML, CSS, JS, Bootstrap, ASP.NET Web Forms"
+    },
+    {
+      "title": "Vidyut Suraksha",
+      "url": "https://vidyutsuraksha.org/",
+      "category": "development uiux",
+      "image": "vidyutsuraksha.png",
+      "stack": "HTML, CSS, JS, Bootstrap, ASP.NET Web Forms"
+    },
+    {
+      "title": "Softosys Solution Pvt Ltd",
+      "url": "https://softosyssolutions.in/",
+      "category": "branding development",
+      "image": "softosys.png",
+      "stack": "HTML, CSS, JS, Bootstrap, ASP.NET Web Forms"
+    },
+    {
+      "title": "Contractor Portal - Vidyut",
+      "url": "https://licence.vidyutsurakshaup.org/ctr_login.aspx",
+      "category": "development uiux",
+      "image": "contractor.png",
+      "stack": " ASP.NET Web Forms, SQL Server"
+    },
+    {
+      "title": "Axil Realcon",
+      "url": "http://axilrealcon.com/",
+      "category": "branding design",
+      "image": "axil_realcon.png",
+      "stack": "HTML, CSS, JS, Bootstrap"
+    },
+    {
+      "title": "Moral Housing",
+      "url": "http://moralhousing.com/",
+      "category": "branding design",
+      "image": "housing.png",
+      "stack": "HTML, CSS, JS, Bootstrap"
+    },
+    {
+      "title": "MTG/GNG Customer Panel",
+      "url": "http://137.97.59.18/MTGCUSTOMER/",
+      "category": "development uiux",
+      "image": "mtg_gng.png",
+      "stack": "HTML, CSS, JS, Bootstrap, PHP"
+    }
+  ]
+  

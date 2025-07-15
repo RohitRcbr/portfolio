@@ -1,0 +1,93 @@
+[
+    {
+      "name": "HTML5",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "percent": 98,
+      "delay": 200
+    },
+    {
+      "name": "CSS3",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "percent": 96,
+      "delay": 300
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "percent": 94,
+      "delay": 400
+    },
+    {
+      "name": "React",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "percent": 85,
+      "delay": 500
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      "percent": 95,
+      "delay": 600
+    },
+    {
+      "name": "JQuery",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
+      "percent": 90,
+      "delay": 200
+    },
+    {
+      "name": "Figma",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      "percent": 88,
+      "delay": 300
+    },
+    {
+      "name": "PHP",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+      "percent": 82,
+      "delay": 400
+    },
+    {
+      "name": ".NET Core",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg",
+      "percent": 75,
+      "delay": 500
+    },
+    {
+      "name": "SQL Server",
+      "image": "https://img.icons8.com/color/480/microsoft-sql-server.png",
+      "percent": 80,
+      "delay": 600
+    },
+    {
+      "name": "MySQL",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "percent": 78,
+      "delay": 200
+    },
+    {
+      "name": "Java",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+      "percent": 70,
+      "delay": 300
+    },
+    {
+      "name": "C++",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+      "percent": 65,
+      "delay": 400
+    },
+    {
+      "name": "Visual Studio Code",
+      "image": "https://img.icons8.com/color/480/visual-studio-code-2019.png",
+      "percent": 95,
+      "delay": 500
+    },
+    {
+      "name": "Visual Studio",
+      "image": "https://img.icons8.com/color/480/visual-studio.png",
+      "percent": 85,
+      "delay": 600
+    }
+  ]
+  
