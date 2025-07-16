@@ -1,6 +1,6 @@
 import { RiMailLine, RiPhoneLine } from "@remixicon/react";
 import { useRef, useState } from "react";
-import { Container, Row, Col, Modal, Spinner, Button, Form } from "react-bootstrap";
+import { Container, Row, Col, Modal, Spinner, Button, Form, InputGroup } from "react-bootstrap";
 import emailjs from "@emailjs/browser";
 export default function Contact() {
     const cusForm = useRef();
@@ -75,33 +75,36 @@ export default function Contact() {
                         </Col>
                         <Col lg={8}>
                             <div className="contact-form contact-form-area" data-aos="fade-up" data-aos-delay="400">
-                                <Form noValidate validated={validated} onSubmit={sendEmail} ref={cusForm}>
-                                    <Row>
-                                        <Form.Group as={Col} md="6" controlId="name" className="form-group">
+                                <Form noValidate validated={validated} onSubmit={sendEmail} ref={cusForm} className="row">
+                                <Form.Group as={Col} md="6" className="form-group">
                                             <Form.Control
                                                 required
-                                                type="text"
+                                                type="text" 
+                                                name="name"
                                                 placeholder="Enter Name" />
                                             <Form.Control.Feedback type="invalid">Please enter name</Form.Control.Feedback>
                                         </Form.Group>
-                                        <Form.Group as={Col} md="6" controlId="email" className="form-group">
+                                        <Form.Group as={Col} md="6" className="form-group">
                                             <Form.Control
                                                 required
                                                 type="email"
+                                                name="email"
                                                 placeholder="Email" />
                                             <Form.Control.Feedback type="invalid">Please Enter valid Email</Form.Control.Feedback>
                                         </Form.Group>
-                                        <Form.Group as={Col} md="6" controlId="subject" className="form-group">
+                                        <Form.Group as={Col} md="6" className="form-group">
                                             <Form.Control
                                                 required
                                                 type="text"
+                                                 name="title"
                                                 placeholder="Subject" />
                                             <Form.Control.Feedback type="invalid">Enter Subject</Form.Control.Feedback>
                                         </Form.Group>
-                                        <Form.Group as={Col} md="12" controlId="message" className="form-group">
+                                        <Form.Group as={Col} md="12" className="form-group">
                                             <Form.Control
                                                 as="textarea"
                                                 required
+                                                name="message"
                                                 rows={4}
                                                 placeholder="Enter Message" />
                                             <Form.Control.Feedback type="invalid">Please Enter Message</Form.Control.Feedback>
@@ -132,7 +135,6 @@ export default function Contact() {
                                                 }
                                             </Button>
                                         </Form.Group>
-                                    </Row>
                                 </Form>
                                 {/* <form id="contactForm" className="contact-form" ref={form} onSubmit={sendEmail}>
                             <div className="row">
