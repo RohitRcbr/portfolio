@@ -78,7 +78,7 @@ export default function About(){
           </>
         ) : (
             <>
-            Download PDF
+            Download CV
             <RiDownloadLine/>
             </>
         )}
