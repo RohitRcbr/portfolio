@@ -7,6 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 import CustomCursor from "circledot-cursor";
 import './index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const SAVE_ENDPOINT = '/.netlify/functions/save-location';
 root.render(
   <BrowserRouter>
 
