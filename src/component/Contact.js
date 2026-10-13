@@ -69,7 +69,7 @@ export default function Contact() {
                                         <RiMailLine />
                                     </div>
                                     <h2>Email us:</h2>
-                                    <p><a href="mailto: rcbr786@gmail.com">rcbr786@mail.com</a></p>
+                                    <p><a href="mailto: rcbr786@gmail.com">rcbr786@gmail.com</a></p>
                                 </div>
                             </div>
                         </Col>
