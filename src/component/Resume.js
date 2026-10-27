@@ -58,6 +58,19 @@ export default function Resume() {
                       </ul>
                     </div>
                   </div>
+                  <div className="resume-item" data-aos="fade-up" data-aos-delay="200">
+                    <div className="icon"><RiBriefcaseLine /></div>
+                    <div className="content">
+                      <span className="years">Previous Experience</span>
+                      <h4>Dynamic Edge Consultant Pvt. Ltd.</h4>
+                      <span className="company">Developer</span>
+                      <ul>
+                        <li>Developed and maintained live software systems using ASP.NET Core, C#, and SQL Server</li>
+                        <li>Built retail, hospital, and banquet management modules from frontend to database</li>
+                        <li>Implemented REST APIs and database operations for real business workflows</li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </Col>
